@@ -100,7 +100,7 @@ header {
   height: 400px;
   color: #fff;
   text-align: center;
-  background: URL(img/1.jpg) no-repeat center center;
+  background: URL(1.jpg) no-repeat center center;
   background-size: cover;
 }
 .headline:after {
